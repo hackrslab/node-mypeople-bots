@@ -1,7 +1,7 @@
 {
-  "name": "mypeople-echo",
+  "name": "mypeople-bots",
   "version": "0.1.0",
-  "description": "MyPeople Echo bot",
+  "description": "MyPeople bot",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dgkim84/node-mypeople-echo"
+    "url": "https://github.com/dgkim84/node-mypeople-bots"
   },
   "bugs": {
-    "url": "https://github.com/dgkim84/node-mypeople-echo/issues"
+    "url": "https://github.com/dgkim84/node-mypeople-bots/issues"
   },
   "author": "Daegeun Kim <dgkim84@gmail.com>",
   "licenses": [
-    {"type": "MIT", "url": "https://github.com/dgkim84/node-mypeople-echo/blob/master/LICENSE"}
+    {"type": "MIT", "url": "https://github.com/dgkim84/node-mypeople-bots/blob/master/LICENSE"}
   ],
   "keywords": [
     "mypeople",
